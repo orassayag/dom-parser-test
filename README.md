@@ -83,3 +83,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 * LinkedIn: https://il.linkedin.com/in/orassayag
 
 ## License
+
+This application has UNLICENSED License.
