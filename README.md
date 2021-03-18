@@ -1,6 +1,6 @@
 # DOM Parser Test
 
-Built in May 2020. The client application's role is to test DOMParser object. The client built in React, and always updated with the latest version of create-react-app (https://github.com/facebook/create-react-app).
+Built in May 2020. The client application's role is to test DOMParser objects. The client built in React, and always updated with the latest version of create-react-app (https://github.com/facebook/create-react-app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -81,4 +81,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## License
 
-This application has UNLICENSED License.
+This application has an UNLICENSED License.
