@@ -2,6 +2,10 @@
   "name": "dom-parser-test",
   "version": "0.1.0",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/dom-parser-test.git"
+  },
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
