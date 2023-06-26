@@ -1,20 +1,26 @@
 {
+	"json.schemaDownload.enable": true,
 	"cSpell.words": [
 		"Assayag",
-		"IMDB",
-		"Inlines",
-		"Plug'n'Play",
 		"axios",
+		"camelcase",
 		"devtool",
+		"flexbugs",
+		"flowtype",
 		"fnames",
 		"hrefs",
+		"IMDB",
+		"Inlines",
 		"minification",
 		"onstatechange",
 		"onupdatefound",
 		"orassayag",
+		"Plug'n'Play",
+		"precached",
 		"sockjs",
 		"svgr",
-		"todos"
+		"testname",
+		"todos",
+		"typeahead"
 	],
-	"files.removeFinalNewlines": true
 }

@@ -6,6 +6,15 @@
     "type": "git",
     "url": "git://github.com/orassayag/dom-parser-test.git"
   },
+  "license": "MIT",
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
